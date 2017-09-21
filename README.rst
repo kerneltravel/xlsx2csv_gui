@@ -1,5 +1,5 @@
 ================================================================================
- - Let you focus on data, instead of file formats
+ - Easy convert xlsx(table) to csv file, Let you focus on data, instead of file formats
 ================================================================================
 
 Known constraints
@@ -23,7 +23,7 @@ Feature Highlights
 How to Use 
 ================================================================================
 You can just click dist_pyinstaller/mainc.exe to run a gui application.
-.. image:: https://github.com/pyexcel/pyexcel-sortable/raw/master/sortable.gif
+.. image:: https://github.com/kerneltravel/xlsx2csv_gui/raw/master/GUI_screenshot.jpg
 
 How to build
 ================================================================================
