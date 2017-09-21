@@ -1,5 +1,6 @@
 ================================================================================
- - Easy convert xlsx(table) to csv file, Let you focus on data, instead of file formats
+ - Easy convert xlsx(table) to csv file, Let you focus on data, instead of file formats.
+ - 将xlsx表格文档导出为逗号+双引号分隔的csv文件。软件图形界面操作。
 ================================================================================
 
 Known constraints
@@ -29,6 +30,7 @@ You can just click dist_pyinstaller/mainc.exe to run a gui application.
 How to build
 ================================================================================
 for developers, this project requires the following modouls:
+1. software dependences:
   * the python version >2.7,
   * PyQt4,
   * pyexcel_xlsx
@@ -43,6 +45,9 @@ for pyexcel_xlsx and unicodecsv and pyinstaller, You can install it via pip:
     > cd xlsx2csv_gui
     > .\build_exe_with_pyinstaller.bat or double click build_exe_with_pyinstaller.bat to build exe
 
+Thanks to
+================================================================================
+`pyexcel-xlsx project for supporting me on pyinstaller packaging issue <https://github.com/pyexcel/pyexcel-xlsx/issues/19>`_
 
 License
 ================================================================================
