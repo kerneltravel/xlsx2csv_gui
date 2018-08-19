@@ -5,7 +5,7 @@
 Known constraints
 ==================
 
-Test under windows system, system's default charset is GBK.
+Test under windows system, system's default charset is GBK(china), so if your system is not default GBK, you need to modify the code a little.
 
 Introduction
 ================================================================================
