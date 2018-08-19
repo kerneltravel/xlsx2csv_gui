@@ -14,7 +14,7 @@ Feature Highlights
 ================================================================================
 1. Easy to export excel 2013's xlsx file to csv:
   * columns saperated by comma and quotes
-  * support utf8 encoded chars in csv. while python's official "csv" module only supportASCII encoded csv files for reading.
+  * support utf8 encoded chars in csv. while python's official "csv" module only support ASCII encoding.
   * easy to use (GUI and simple)
 
 
